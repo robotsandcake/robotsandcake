@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-<!--
+ I saw that Github now has dynamic, updatable and ever-changing READMES as a feature on your own personal profile page.
+ 
+ They have some helpful prompts in case you couldn't work out what you wanted to say about yourself, including such gems as:
+ 
+- 🔭 I’m currently working on: 
+ 
+Which one would obviously complete with
 
+- 🔭 I’m currently working on: Vertically integrating myself into the Blockchain.
+
+<!--
 - 🔭 I’m currently working on vertically integrating everything
 - 🌱 I’m currently learning what vertical integration is
 - 👯 I’m looking to collaborate on vertical integration
@@ -14,3 +23,4 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/robotsandcakes?style=social)
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/robotsandcake)
+![GitHub last commit](https://img.shields.io/github/last-commit/robotsandcake/homeassistant)
