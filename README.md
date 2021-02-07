@@ -23,4 +23,4 @@ Which one would obviously complete with
 ![Twitter Follow](https://img.shields.io/twitter/follow/robotsandcakes?style=social)
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/robotsandcake)
-![GitHub last commit](https://img.shields.io/github/last-commit/robotsandcake/homeassistant)
+![GitHub last commit](https://img.shields.io/github/last-commit/robotsandcake/robotsandcake?style=flat-square)
